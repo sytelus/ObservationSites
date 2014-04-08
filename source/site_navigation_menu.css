@@ -1,0 +1,482 @@
+A
+{
+    COLOR: #000000;
+	TEXT-DECORATION: underline;
+}
+A:hover
+{
+    COLOR: #3399FF;
+	TEXT-DECORATION: underline;
+}
+A:active
+{
+    COLOR: #0066CC;
+	TEXT-DECORATION: underline;
+}
+BODY
+{
+    FONT-FAMILY: Verdana; 
+}
+TR.normal
+{
+	BACKGROUND-COLOR: #FFFFFF;
+}
+TR.altern
+{
+	BACKGROUND-COLOR: #E5F2FF;
+}
+TD
+{
+    FONT-FAMILY: Verdana;
+    FONT-SIZE: x-small;
+}
+TD.header
+{
+    BACKGROUND-COLOR: #99CCFF;
+    COLOR: #000000;
+    FONT-FAMILY: Verdana;
+    FONT-SIZE: x-small;
+    FONT-WEIGHT: bold;
+	TEXT-ALIGN: left;
+}
+TD.featuredheader
+{
+    BACKGROUND-COLOR: #0066CC;
+    COLOR: #FFFFFF;
+    FONT-FAMILY: Verdana;
+    FONT-SIZE: x-small;
+    FONT-WEIGHT: bold;
+    TEXT-ALIGN: left;
+}
+TD.code
+{
+	FONT-FAMILY: courier;
+	FONT-SIZE: small;
+}
+H1
+{
+    FONT-FAMILY: Verdana;
+	FONT-WEIGHT: Bold;
+    FONT-SIZE: medium;
+}
+H2
+{
+    FONT-FAMILY: Verdana;
+	FONT-WEIGHT: Bold;
+    FONT-SIZE: small;
+}
+H3
+{
+    FONT-FAMILY: Verdana; 
+	FONT-WEIGHT: Bold;
+    FONT-SIZE: x-small;
+}
+A.rollover
+{
+    COLOR: #3399FF;
+    FONT-SIZE: 10px;
+    TEXT-DECORATION: none;
+}
+A.rollover:hover
+{
+    COLOR: #000000;
+}
+A.rollover:active
+{
+    COLOR: #000000;
+}
+A.rollovernav
+{
+    COLOR: #FFFFFF;
+    FONT-SIZE: 10px;
+    TEXT-DECORATION: none;
+}
+A.rollovernav:hover
+{
+    COLOR: #FFFF99;
+}
+A.rollovernav:active
+{
+    COLOR: #000000;
+}
+A.featuredrollovernav
+{
+    COLOR: #FFFFFF;
+    FONT-SIZE: 10px;
+}
+A.featuredrollovernav:hover
+{
+    COLOR: #FFFF99;
+}
+A.featuredrollovernav:active
+{
+    COLOR: #000000;
+}
+A.rollovernavheader
+{
+    COLOR: #CC0000;
+    FONT-SIZE: 11px;
+	FONT-WEIGHT: bold;
+    TEXT-DECORATION: none;
+}
+A.rollovernavheader:hover
+{
+    COLOR: #000000;
+}
+A.rollovernavheader:active
+{
+    COLOR: #CC0000;
+}
+
+A.rollovernav_ltblue
+{
+    COLOR: #000000;
+    FONT-SIZE: 10px;
+}
+A.rollovernav_ltblue:hover
+{
+    COLOR: #FFFFFF;
+}
+A.rollovernav_ltblue:active
+{
+    COLOR: #3399FF;
+}
+
+A.rollovertablehead
+{
+    COLOR: #000000;
+    FONT-SIZE: 13px;
+	FONT-WEIGHT: bold;
+}
+A.rollovertablehead:hover
+{
+    COLOR: #FFFFFF;
+}
+A.rollovertablehead:active
+{
+    COLOR: #CC0000;
+}
+
+A.featuredrollovertablehead
+{
+    COLOR: #FFFF99;
+    FONT-SIZE: 13px;
+	FONT-WEIGHT: bold;
+}
+A.featuredrollovertablehead:hover
+{
+    COLOR: #FFFFFF;
+}
+A.featuredrollovertablehead:active
+{
+    COLOR: #FFFF99;
+}
+
+label
+{
+	font-size: 8pt;
+}
+
+input.gdnbutton
+{
+	font-family:		verdana;
+	font-size:			xx-small;
+	font-weight:		bold;
+	text-decoration:	none;
+	background-color:	#3399FF;
+	color:				#FFFFFF;
+	border-top:			1 solid #99CCFF;
+	border-left:		1 solid #99CCFF;
+	border-right:		1 solid #336699;
+	border-bottom:		1 solid #336699;
+	cursor:				hand;
+}
+
+input.gdnbuttondemo
+{
+	font-family:		verdana;
+	font-size:			xx-small;
+	font-weight:		bold;
+	text-decoration:	none;
+	background-color:	#99CCFF;
+	color:				#000000;
+	border-top:			1 solid #FFFFFF;
+	border-left:		1 solid #FFFFFF;
+	border-right:		1 solid #000066;
+	border-bottom:		1 solid #000066;
+	cursor:				hand;
+}
+
+A.gdnbutton
+{
+	font-family:		verdana;
+	font-size:			xx-small;
+	font-weight:		bold;
+	text-decoration:	none;
+	background-color:	#3399FF;
+	color:				#FFFFFF;
+	border-top:			1 solid #99CCFF;
+	border-left:		1 solid #99CCFF;
+	border-right:		1 solid #336699;
+	border-bottom:		1 solid #336699;
+	cursor:				hand;
+}
+
+/* SAMPLE CODE WITH DIFFERENT LANGUAGES */
+.sampleCode 
+{
+	BORDER: #3399FF 1px solid; 
+	PADDING-RIGHT: 5px; 
+	PADDING-LEFT: 5px; 
+	PADDING-BOTTOM: 15px;  
+	PADDING-TOP: 0px; 
+	BACKGROUND-COLOR: #e5f2ff; 
+	font-size:x-small;
+}
+
+TD.sampleCodeTab 
+{
+	BORDER-RIGHT: #3399FF 0px; 
+	PADDING-RIGHT: 3px; 
+	BORDER-TOP: #3399FF 0px solid;  
+	PADDING-LEFT: 3px; 
+	PADDING-BOTTOM: 3px; 
+	FONT: 8pt verdana; 
+	BORDER-LEFT: #3399FF 1px solid; 
+	WIDTH:  15%; 
+	PADDING-TOP: 3px; 
+	BORDER-BOTTOM: #3399FF 1px solid; 
+	BACKGROUND-COLOR: #99CCFF; 
+	TEXT-ALIGN:  center
+}
+
+TD.sampleCodeBacktab 
+{
+	CURSOR:HAND; 
+	BORDER-RIGHT: #3399FF 0px; 
+	PADDING-RIGHT: 3px; 
+	BORDER-TOP: #3399FF 0px  solid; 
+	PADDING-LEFT: 3px; 
+	PADDING-BOTTOM: 3px; 
+	FONT: 8pt verdana; 
+	BORDER-LEFT: #3399FF 1px solid;  
+	WIDTH: 15%; 
+	PADDING-TOP: 3px; 
+	BORDER-BOTTOM: #3399FF 1px solid; 
+	BACKGROUND-COLOR: #ffffff;  
+	TEXT-ALIGN: center
+}
+
+TD.sampleCodeSpace 
+{
+	BORDER-RIGHT: #cccccc 1px; 
+	PADDING-RIGHT: 0px; 
+	BORDER-TOP: #cccccc 0px solid;  
+	PADDING-LEFT: 0px; 
+	PADDING-BOTTOM: 0px; 
+	FONT: 8pt verdana; 
+	BORDER-LEFT: #3399FF 1px solid; 
+	WIDTH:  70%; 
+	PADDING-TOP: 0px; 
+	BORDER-BOTTOM: #cccccc 1px; 
+	BACKGROUND-COLOR: white
+}
+
+
+/* WEB COMMUNITIES -- Details Inline */
+A.lbclass
+{
+	font-family:		verdana;
+	/*font-size:			xx-small;*/
+	font-weight:		bold;
+	text-decoration:	none;
+	background-color:	#3399FF;
+	color:				#FFFFFF;
+	padding:2;
+	border-top:			2 solid #99CCFF;
+	border-left:		2 solid #99CCFF;
+	border-right:		2 solid #336699;
+	border-bottom:		2 solid #336699;
+	cursor:				hand;
+}
+
+A.lbclass:hover
+{
+	font-family:		verdana;
+	/*font-size:			xx-small;*/
+	font-weight:		bold;
+	text-decoration:	none;
+	background-color:	#99CCFF;
+	color:				#FFFFFF; 
+	padding:2;
+	border-top:			2 solid #99CCFF;
+	border-left:		2 solid #99CCFF;
+	border-right:		2 solid #336699;
+	border-bottom:		2 solid #336699;
+	cursor:				hand;
+}
+
+A.lbclass:active
+{
+	font-family:		verdana;
+	/*font-size:			xx-small;*/
+	font-weight:		bold;
+	text-decoration:	none;
+	background-color:	#3399FF;
+	color:				#FFFFFF;
+	border-bottom:		2 solid #99CCFF;
+	border-right:		2 solid #99CCFF;
+	border-left:		2 solid #336699;
+	border-top:			2 solid #336699;
+	cursor:				hand;
+}
+
+A.lbclass_down:hover
+{
+	font-family:		verdana;
+	/*font-size:			xx-small;*/
+	font-weight:		bold;
+	text-decoration:	none;
+	background-color:	#99CCFF;
+	color:				#FFFFFF;
+	padding:1;
+	border-bottom:		2 solid #99CCFF;
+	border-right:		2 solid #99CCFF;
+	border-left:		2 solid #336699;
+	border-top:			2 solid #336699;
+	cursor:				hand;
+}
+
+A.lbclass_down
+{
+	font-family:		verdana;
+	/*font-size:			xx-small;*/
+	font-weight:		bold;
+	text-decoration:	none;
+	background-color:	#3399FF;
+	color:				#FFFFFF;
+	padding:2;
+	border-bottom:		2 solid #99CCFF;
+	border-right:		2 solid #99CCFF;
+	border-left:		2 solid #336699;
+	border-top:			2 solid #336699;
+	cursor:				hand;
+}
+
+
+TABLE.dataview /* for when you need a border on a table */
+{
+	border:1px SOLID;
+	border-color:#3399FF;
+}
+
+TH.headerbar /* for when you need a border on a table */
+{
+	border:1px SOLID;
+	border-color:#3399FF;
+}
+
+TR.altrow /* for alternating background colors in table rows */
+{
+	BACKGROUND-COLOR: #BFDFFF;
+}
+
+TR.titlerow /* for the row that contains column headers in a table */
+{
+	BACKGROUND-COLOR: #3399FF; /*#FF9900;*/
+	FONT-WEIGHT: bold;
+	COLOR: #FFFFFF;
+}
+
+TD.titlerow /* for column headers in a table */
+{
+	BACKGROUND-COLOR: #FF9900;
+	FONT-WEIGHT: bold;
+	COLOR: #FFFFFF;
+}
+
+TD.title /* for secondary headers */
+{
+	BACKGROUND-COLOR: #3399FF; /*#FF9900;*/
+	FONT-WEIGHT: bold;
+	COLOR: #FFFFFF;
+	PADDING: 2px;
+}
+
+TH.header
+{
+    BACKGROUND-COLOR: #99CCFF;
+    COLOR: #000000;
+    FONT-FAMILY: Verdana;
+    FONT-SIZE: x-small;
+    FONT-WEIGHT: bold;
+	TEXT-ALIGN: left;
+}
+
+TD.altrow /* for alternating background colors in table rows */
+{
+	BACKGROUND-COLOR: 
+
+}
+
+TH.dataview
+{
+    BACKGROUND-COLOR: #99CCFF;
+    COLOR: #000000;
+    FONT-FAMILY: Verdana;
+    FONT-SIZE: x-small;
+    FONT-WEIGHT: bold;
+	TEXT-ALIGN: left;
+}
+
+TH.headerbar
+{
+    BACKGROUND-COLOR: #99CCFF;
+    COLOR: #000000;
+    FONT-FAMILY: Verdana;
+    FONT-SIZE: x-small;
+    FONT-WEIGHT: bold;
+	TEXT-ALIGN: left;
+}
+
+.code 
+{
+	FONT-FAMILY: courier new; 
+	FONT-SIZE: xx-small;
+}
+
+.comment 
+{
+	COLOR: green
+}
+
+TD.SearchResult
+{
+    font-size:x-small;
+}
+
+.SearchDetail
+{
+    font-size:xx-small;
+    color: DimGray;
+}
+
+.SearchTitle
+{
+    font-size: small;
+    font-weight: bold;
+    color: #000099;
+}
+
+.SearchBox
+{
+    font-size: x-small;   
+}
+
+.SearchSummary
+{
+    font-size: x-small;   
+}
+
+
+

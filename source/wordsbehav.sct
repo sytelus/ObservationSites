@@ -1,0 +1,23 @@
+<scriptlet>
+<implements id="behavior" type="behavior" default/>
+
+<script language="jscript">
+
+attachEvent("onmouseover", enableGlow);
+attachEvent("onmouseout", disableGlow);
+
+function enableGlow() {
+  intRed = (Math.round(Math.random() * 156) + 100) * 65536;
+  intGreen = (Math.round(Math.random() * 156) + 100) * 256;
+  intBlue = Math.round(Math.random() * 156) + 100;
+  intColor = intRed + intGreen + intBlue;
+  this.filters.glow.color = intColor
+  this.filters.glow.enabled = true;
+}
+
+function disableGlow() {
+  this.filters.glow.enabled = false;
+}
+
+</script>
+</scriptlet>

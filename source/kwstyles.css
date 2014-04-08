@@ -1,0 +1,198 @@
+UNKNOWN {
+	COLOR: #400080
+}
+UNKNOWN {
+	COLOR: #400080
+}
+UNKNOWN {
+	
+}
+UNKNOWN {
+	CURSOR: hand; COLOR: gold
+}
+UNKNOWN {
+	CURSOR: hand; COLOR: #400080
+}
+A.Big {
+	FONT-WEIGHT: bold; FONT-SIZE: 14pt; COLOR: black; FONT-FAMILY: Tahoma, Verdana, Arial Narrow, Helvetica; TEXT-DECORATION: none; font-position: relative
+}
+UNKNOWN {
+	COLOR: white
+}
+UNKNOWN {
+	COLOR: white
+}
+UNKNOWN {
+	CURSOR: hand; COLOR: gold
+}
+UNKNOWN {
+	CURSOR: hand; COLOR: gold
+}
+UNKNOWN {
+	CURSOR: hand; COLOR: black
+}
+A.Nav {
+	FONT-WEIGHT: 200; FONT-SIZE: 10pt; LEFT: 0.25em; COLOR: white; FONT-FAMILY: Tahoma, Verdana, Arial Narrow, Helvetica; POSITION: relative; TEXT-DECORATION: none; font-position: relative
+}
+UNKNOWN {
+	COLOR: white
+}
+UNKNOWN {
+	COLOR: white
+}
+UNKNOWN {
+	CURSOR: hand; COLOR: white
+}
+UNKNOWN {
+	CURSOR: hand; COLOR: gold
+}
+UNKNOWN {
+	CURSOR: hand; COLOR: white
+}
+A.Navban {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; LEFT: 0.25em; COLOR: white; FONT-FAMILY: Tahoma, Verdana, Arial Narrow, Helvetica; POSITION: relative; TEXT-DECORATION: none; font-position: relative
+}
+UNKNOWN {
+	COLOR: white
+}
+UNKNOWN {
+	COLOR: white
+}
+UNKNOWN {
+	CURSOR: hand; COLOR: gold
+}
+UNKNOWN {
+	CURSOR: hand; COLOR: gold
+}
+UNKNOWN {
+	CURSOR: hand; COLOR: black
+}
+A.2Nav {
+	FONT-WEIGHT: 200; FONT-SIZE: 9pt; LEFT: 0.25em; COLOR: white; FONT-FAMILY: Tahoma, Verdana, Arial Narrow, Helvetica; POSITION: relative; TEXT-DECORATION: none; font-position: relative
+}
+UNKNOWN {
+	COLOR: white
+}
+UNKNOWN {
+	COLOR: white
+}
+UNKNOWN {
+	CURSOR: hand; COLOR: gold
+}
+UNKNOWN {
+	CURSOR: hand; COLOR: gold
+}
+UNKNOWN {
+	CURSOR: hand; COLOR: black
+}
+A.SubNav {
+	FONT-WEIGHT: normal; FONT-SIZE: 8pt; COLOR: white; FONT-FAMILY: Tahoma, Verdana, Arial Narrow, Helvetica; Left:0.5em; POSITION: relative; TEXT-DECORATION: none; 
+}
+UNKNOWN {
+	COLOR: #400080
+}
+UNKNOWN {
+	COLOR: #400080
+}
+UNKNOWN {
+	CURSOR: hand; COLOR: maroon
+}
+UNKNOWN {
+	CURSOR: hand; COLOR: #ff8c00
+}
+UNKNOWN {
+	CURSOR: hand; COLOR: black
+}
+A {
+	FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: blue; FONT-FAMILY: Tahoma, Verdana, Arial Narrow, Helvetica; TEXT-DECORATION: underline; font-position: relative
+}
+.content {
+	FONT-WEIGHT: bold; FONT-SIZE: 14pt; COLOR: #336699; FONT-FAMILY: "Univers 67 CondensedBold", "Arial Narrow", Geneva; LETTER-SPACING: 1px; TEXT-ALIGN: left; TEXT-DECORATION: none
+}
+.subcontent {
+	FONT-WEIGHT: bold; FONT-SIZE: 12pt; COLOR: #ffffff; TEXT-INDENT: 10px; LINE-HEIGHT: 20px; FONT-FAMILY: "Univers 67 CondensedBold", "Arial Narrow", Geneva; LETTER-SPACING: 2px; TEXT-ALIGN: left; TEXT-DECORATION: none
+}
+H1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 14pt; COLOR: #006699; LINE-HEIGHT: normal; FONT-FAMILY: Tahoma, Arial, Helvetica, Verdana, Geneva, sans-serif; LETTER-SPACING: 1px; TEXT-DECORATION: none
+}
+.H1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 14pt; COLOR: #006699; LINE-HEIGHT: normal; FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif; LETTER-SPACING: 1px; TEXT-DECORATION: none
+}
+H2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 12pt; COLOR: #660000; LINE-HEIGHT: normal; FONT-FAMILY: Tahoma, Verdana, "Arial Narrow", Helvetica; LETTER-SPACING: 1px; TEXT-ALIGN: left; TEXT-DECORATION: none
+}
+.H2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 12pt; COLOR: #660000; LINE-HEIGHT: normal; FONT-FAMILY: Tahoma, Verdana, "Arial Narrow", Helvetica; LETTER-SPACING: 1px; TEXT-ALIGN: left; TEXT-DECORATION: none
+}
+H3 {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #006699; LINE-HEIGHT: normal; FONT-FAMILY: Tahoma, Verdana, "Arial Narrow", Helvetica; LETTER-SPACING: 1px; TEXT-ALIGN: left; TEXT-DECORATION: none
+}
+.H3 {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #006699; LINE-HEIGHT: normal; FONT-FAMILY: Tahoma, Verdana, "Arial Narrow", Helvetica; LETTER-SPACING: 1px; TEXT-ALIGN: left; TEXT-DECORATION: none
+}
+.leadin {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Tahoma, Verdana, "Arial Narrow", Helvetica; TEXT-ALIGN: left; TEXT-DECORATION: none
+}
+P {
+	FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Tahoma, Verdana, Arial Narrow, Helvetica; TEXT-DECORATION: none
+}
+.para {
+	FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: black; TEXT-INDENT: 5em; FONT-FAMILY: Tahoma, Verdana, Arial Narrow, Helvetica; TEXT-ALIGN: left; TEXT-DECORATION: none
+}
+.signoff {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Tahoma, Verdana, Arial Narrow, Helvetica; TEXT-ALIGN: left; TEXT-DECORATION: none
+}
+.footer {
+	FONT-WEIGHT: normal; FONT-SIZE: 7pt; FONT-STYLE: italic; FONT-FAMILY: Tahoma, Verdana, Arial Narrow, Helvetica; TEXT-DECORATION: none; font-color: black; font-alignment: left
+}
+UL {
+	FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Tahoma, Verdana, Arial Narrow, Helvetica; TEXT-DECORATION: none
+}
+LI {
+	FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Tahoma, Verdana, Arial Narrow, Helvetica; TEXT-DECORATION: none
+}
+UNKNOWN {
+	COLOR: black
+}
+UNKNOWN {
+	COLOR: white
+}
+UNKNOWN {
+	CURSOR: hand; COLOR: #400080
+}
+UNKNOWN {
+	CURSOR: hand; COLOR: #400080
+}
+UNKNOWN {
+	CURSOR: hand; COLOR: black
+}
+A.foot {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; LEFT: 0.25em; COLOR: black; FONT-FAMILY: Tahoma, Verdana, Arial Narrow, Helvetica; POSITION: relative; TEXT-DECORATION: none; font-position: relative
+}
+IMG {
+	BORDER-RIGHT: medium none; BORDER-TOP: medium none; BORDER-LEFT: medium none; BORDER-BOTTOM: medium none
+}
+.dropcap {
+	FONT-WEIGHT: bold; FONT-SIZE: 24pt; TEXT-TRANSFORM: capitalize; COLOR: black; LINE-HEIGHT: 16.34pt; FONT-STYLE: normal; FONT-FAMILY: "Times New Roman", Times, serif
+}
+TD {
+	FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Tahoma, Verdana, Arial Narrow, Helvetica; TEXT-ALIGN: left; TEXT-DECORATION: none
+}
+UNKNOWN {
+	COLOR: #400080
+}
+UNKNOWN {
+	COLOR: #400080
+}
+UNKNOWN {
+	CURSOR: hand; COLOR: #400080
+}
+UNKNOWN {
+	CURSOR: hand; COLOR: blue
+}
+UNKNOWN {
+	CURSOR: hand; COLOR: black
+}
+A.footer {
+	FONT-WEIGHT: normal; FONT-SIZE: 10pt; LEFT: 0.25em; COLOR: black; FONT-STYLE: normal; FONT-FAMILY: Tahoma, Verdana, "Arial Narrow", Helvetica; POSITION: relative; TEXT-DECORATION: underline; font-position: relative
+}

@@ -1,0 +1,76 @@
+<?xml version="1.0" standalone="yes"?>
+
+<SectionInfo>
+<Section Image="http://www.gotdotnet.com/images/gdn_navh_mostpop.gif" Name="Most Popular Features" SectionId="0" Url="">
+	<Item Url="http://www.gotdotnet.com/community.aspx" Caption="My Community Console" SectionId="0" New="false" External="false" />
+	<Item Url="http://www.gotdotnet.com/community/user/viewprofile.aspx" Caption="My Profile" SectionId="0" New="false" External="false" />
+	<Item Url="http://www.gotdotnet.com/community/user/directory.aspx" Caption="User Directory" SectionId="0" New="false" External="false" />
+	<Item Url="http://www.gotdotnet.com/community/messageboard/Home.aspx" Caption="Message Boards" SectionId="0" New="false" External="false" />
+	<Item Url="http://www.gotdotnet.com/userarea/default.aspx" Caption="User Samples" SectionId="0" New="false" External="false" />
+	<Item Url="http://www.gotdotnet.com/quickstart/" Caption=".NET Quickstart Tutorials" SectionId="0" New="false" External="false" />
+	<Item Url="http://www.gotdotnet.com/terrarium/" Caption="Terrarium" SectionId="0" New="false" External="false" />
+	<Item Url="http://www.gotdotnet.com/mydotnet/" Caption="Manage My Samples" SectionId="0" New="false" External="false" />
+	<Item Url="http://www.gotdotnet.com/community/student/" Caption="GotDotNet Student" SectionId="0" New="false" External="false" />
+</Section>
+
+<Section Image="http://www.gotdotnet.com/images/gdn_navh_getto.gif" Name="Get To Know .NET" SectionId="1" Url="">
+	<Item Url="http://www.gotdotnet.com/team/java/"  Caption=".NET and Java" SectionId="1" New="false" External="false" />
+	<Item Url="http://www.gotdotnet.com/team/jscript/"  Caption="JScript .NET" SectionId="1" New="false" External="false" />
+	<Item Url="http://www.gotdotnet.com/team/asp/"  Caption="ASP.NET" SectionId="1" New="false" External="false" />
+	<Item Url="http://www.gotdotnet.com/team/clr/about_clr.aspx" Caption="Common Language Runtime" SectionId="1" New="false" External="false" />
+	<Item Url="http://www.gotdotnet.com/team/clr/about_distributedapps.aspx" Caption="Distributed Applications" SectionId="1" New="false" External="false" />
+	<Item Url="http://www.gotdotnet.com/team/xmlentsvcs/" Caption="Enterprise Services" SectionId="1" New="false" External="false" />
+	<Item Url="http://www.gotdotnet.com/team/clr/about_mobilecode.aspx" Caption="Mobile Code" SectionId="1" New="false" External="false" />
+	<Item Url="http://www.gotdotnet.com/team/mit/"  Caption="Mobile Internet Toolkit" SectionId="1" New="false" External="false" />
+	<Item Url="http://www.gotdotnet.com/team/netcf/default.aspx" Caption=".NET Compact Framework" SectionId="1" New="false" External="false" />
+	<Item Url="http://www.gotdotnet.com/about_new.aspx" Caption=".NET Framework" SectionId="1" New="false" External="false" />
+	<Item Url="http://www.gotdotnet.com/team/clr/about_security.aspx" Caption=".NET Security" SectionId="1" New="false" External="false" />
+	<Item Url="http://www.gotdotnet.com/netteam.aspx" Caption="Meet the .NET Team" SectionId="1" New="false" External="false" />
+	<Item Url="http://www.gotdotnet.com/team/libraries/" Caption="Reusable Libraries" SectionId="1" New="false" External="false" />
+	<Item Url="http://www.gotdotnet.com/team/vb/" Caption="Visual Basic .NET" SectionId="1" New="false" External="false" />
+	<Item Url="http://www.gotdotnet.com/team/cplusplus/" Caption="Visual C++ .NET" SectionId="1" New="false" External="false" />
+	<Item Url="http://www.gotdotnet.com/team/vfp/" Caption="Visual FoxPro with .NET" SectionId="1" New="false" External="false" />
+	<Item Url="http://www.gotdotnet.com/team/csharp/" Caption="Visual C# .NET" SectionId="1" New="false" External="false" />
+	<Item Url="http://www.gotdotnet.com/team/windowsforms/" Caption="Windows Forms" SectionId="1" New="false" External="false" />
+	<Item Url="http://www.gotdotnet.com/team/XMLwebservices/default.aspx" Caption="XML Web Services" SectionId="1" New="false" External="false" />
+	<Item Url="http://msdn.microsoft.com/vstudio/default.asp" Caption="Visual Studio .NET" SectionId="1" New="false" External="true" />
+	<Item Url="http://www.gotdotnet.com/team/gdnteam.aspx" Caption="Meet the GotDotNet Team" SectionId="1" New="false" External="false" />
+</Section>
+
+<Section Image="http://www.gotdotnet.com/images/gdn_navh_dltools.gif" Name=".NET Downloads and Tools" SectionId="2" Url="">
+	<Item Url="http://www.gotdotnet.com/team/tools/web_svc/default.aspx" Caption="Web Service Tools" SectionId="2" New="false" External="false" />
+	<Item Url="http://www.gotdotnet.com/team/upgrade/default.aspx" Caption="About Upgrading .NET" SectionId="2" New="false" External="false" />
+	<Item Url="http://msdn.microsoft.com/vstudio/nextgen/default.asp" Caption="Visual Studio .NET" SectionId="2" New="false" External="true" />
+	<Item Url="http://msdn.microsoft.com/downloads/default.asp?URL=/code/sample.asp?url=/msdn-files/027/000/976/msdncompositedoc.xml" Caption="Download .NET SDK" SectionId="2" New="false" External="true" />
+	<Item Url="http://msdn.microsoft.com/downloads/default.asp?url=/downloads/sample.asp?url=/msdn-files/027/001/829/msdncompositedoc.xml" Caption="Download .NET Redist" SectionId="2" New="false" External="true" />
+</Section>
+
+<Section Image="http://www.gotdotnet.com/images/gdn_navh_trainevents.gif" Name="Events" SectionId="3" Url="">
+	<Item Url="http://msdn.microsoft.com/chats/" Caption="MSDN Tech Chats" SectionId="3" New="false" External="true" />
+	<Item Url="http://www.microsoft.com/technet/treeview/default.asp?url=/technet/itcommunity/chats/Default.asp" Caption="TechNet Chats" SectionId="3" New="false" External="true" />
+	<Item Url="http://www.gotdotnet.com/events/default.aspx" Caption="Training &amp; Events Archives" SectionId="3" New="false" External="false" />
+	<Item Url="http://msdn.microsoft.com/events/" Caption="MSDN Events" SectionId="3" New="false" External="true" />
+	<Item Url="http://www.microsoft.com/usa/webcasts/upcoming/" Caption="Microsoft Webcasts" SectionId="3" New="false" External="true" />
+</Section>
+
+<Section Image="http://www.gotdotnet.com/images/gdn_navh_netsamp2.gif" Name="Samples" SectionId="4" Url="">
+	<Item Url="http://www.gotdotnet.com/quickstart/" Caption=".NET QuickStart Tutorials" SectionId="4" New="false" External="false" />
+	<Item Url="http://www.gotdotnet.com/playground/services/" Caption="Web Service Examples" SectionId="4" New="false" External="false" />
+	<Item Url="http://www.gotdotnet.com/team/p2p/" Caption="Peer-to-Peer Samples" SectionId="4" New="false" External="false" />
+	<Item Url="http://www.gotdotnet.com/userarea/default.aspx" Caption="User Samples" SectionId="4" New="false" External="false" />
+</Section>		
+
+<Section Image="http://www.gotdotnet.com/images/gdn_navh_resccen2.gif" Name="Resource Center" SectionId="5" Url="">
+	<Item Url="http://www.gotdotnet.com/resourcecenter/resource_center.aspx?classification=Books%20and%20Articles" Caption="Books and Articles" SectionId="5" New="false" External="false" />
+	<Item Url="http://www.gotdotnet.com/resourcecenter/resource_center.aspx?classification=Community" Caption="Community" SectionId="5" New="false" External="false" />
+	<Item Url="http://www.gotdotnet.com/resourcecenter/resource_center.aspx?classification=Component%20Vendors" Caption="Component Vendors" SectionId="5" New="false" External="false" />
+	<Item Url="http://www.gotdotnet.com/resourcecenter/resource_center.aspx?classification=Discussion%20Lists" Caption="Discussion Lists" SectionId="5" New="false" External="false" />
+	<Item Url="http://www.gotdotnet.com/resourcecenter/resource_center.aspx?classification=Language%20Vendors" Caption="Language Vendors" SectionId="5" New="false" External="false" />
+	<Item Url="http://www.gotdotnet.com/resourcecenter/microsoft.aspx" Caption="Microsoft.NET Resources" SectionId="5" New="false" External="false" />
+	<Item Url="http://www.gotdotnet.com/resourcecenter/resource_center.aspx?classification=.NET%20Publications" Caption=".NET Publications" SectionId="5" New="false" External="false" />
+	<Item Url="http://www.gotdotnet.com/resourcecenter/resource_center.aspx?classification=.NET%20User%20Groups" Caption=".NET User Groups" SectionId="5" New="false" External="false" />
+	<Item Url="http://www.gotdotnet.com/resourcecenter/resource_center.aspx?classification=Training" Caption="Training and Events" SectionId="5" New="false" External="false" />
+	<Item Url="http://www.gotdotnet.com/resourcecenter/resource_center.aspx?classification=Web%20Hosting" Caption="Web Hosting" SectionId="5" New="false" External="false" />
+	<Item Url="http://www.gotdotnet.com/resourcecenter/resource_center.aspx?classification=Web%20Services" Caption="Web Services" SectionId="5" New="false" External="false" />
+</Section>
+</SectionInfo>
